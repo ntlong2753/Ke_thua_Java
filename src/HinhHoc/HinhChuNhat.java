@@ -40,7 +40,7 @@ public class HinhChuNhat extends Shape {
     public String toString() {
         return "Hình chữ nhật có chiều rộng = " + getWidth()
                 + " và chiều dài = " + getLength()
-                + "; Có diện tích = " + getDienTich()
+                + ";Có diện tích = " + getDienTich()
                 + " và chu vi = " + getChuVi()
                 + "; Là lớp con của lớp "
                 + super.toString();
